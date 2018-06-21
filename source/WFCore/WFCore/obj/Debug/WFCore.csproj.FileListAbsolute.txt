@@ -1,0 +1,9 @@
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\bin\Debug\WFCore.dll
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\bin\Debug\WFCore.pdb
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\bin\Debug\System.Data.SQLite.DLL
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\obj\Debug\ResolveAssemblyReference.cache
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\obj\Debug\WFCore.Properties.Resources.resources
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\obj\Debug\GenerateResource.read.1.tlog
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\obj\Debug\GenerateResource.write.1.tlog
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\obj\Debug\WFCore.dll
+F:\04.developer workspace\baishui_16_c#\WFCore\WFCore\obj\Debug\WFCore.pdb

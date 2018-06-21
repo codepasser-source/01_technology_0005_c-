@@ -1,0 +1,13 @@
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\bin\Debug\WFView.exe
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\bin\Debug\WFView.pdb
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\bin\Debug\WFCore.dll
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\bin\Debug\System.Data.SQLite.dll
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\bin\Debug\WFCore.pdb
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\obj\x86\Debug\WFView.Properties.Resources.resources
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\obj\x86\Debug\WFView.exe
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\obj\x86\Debug\WFView.pdb
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\bin\Debug\WFView.exe.config
+F:\04.developer workspace\baishui_16_c#\WFView\WFView\obj\x86\Debug\WFView.DBForm.resources
